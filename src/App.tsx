@@ -286,7 +286,7 @@ export default function App() {
             transition={{ delay: 0.3, duration: 0.8 }}
             className="text-5xl md:text-7xl font-bold font-display mb-6 tracking-tight"
           >
-            Hi, I'm <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 via-purple-400 to-pink-400 animate-gradient-x">Rithan V</span>
+            I'm <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 via-purple-400 to-pink-400 animate-gradient-x">Rithan V</span>
           </motion.h1>
 
           <motion.p 
