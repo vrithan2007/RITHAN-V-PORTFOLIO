@@ -1,20 +1,84 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🚀 Rithan V – Portfolio
 
-# Run and deploy your AI Studio app
+Welcome to my personal portfolio repository.
+This website showcases my projects, technical skills, and work in **Electronics and Communication Engineering (ECE)** and **web development**.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/6f04a254-553f-4e59-a989-1940bda028fa
+## 🌐 Live Website
 
-## Run Locally
+🔗 https://vrithan2007.github.io/RITHAN-V-PORTFOLIO/
 
-**Prerequisites:**  Node.js
+---
 
+## 📌 About Me
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+I am an **Electronics and Communication Engineering student** passionate about technology, development, and innovation.
+I enjoy building projects that combine **electronics, software, and modern web technologies**.
+
+---
+
+## 🛠 Tech Stack
+
+* HTML5
+* CSS3
+* JavaScript
+* Git & GitHub
+* VS Code
+
+---
+
+## 📂 Portfolio Sections
+
+The portfolio website includes:
+
+* **Home** – Introduction and landing section
+* **About** – My background and interests
+* **Projects** – Showcase of my work
+* **Skills** – Technologies and tools I use
+* **Contact** – Ways to connect with me
+
+---
+
+## 💡 Features
+
+✔ Responsive design
+✔ Modern UI
+✔ Smooth animations
+✔ Mobile-friendly layout
+✔ Clean and professional interface
+
+---
+
+## 📦 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/vrithan2007/RITHAN-V-PORTFOLIO.git
+```
+
+Open the folder and run:
+
+```
+index.html
+```
+
+---
+
+## 🚀 Deployment
+
+This website is deployed using **GitHub Pages**.
+
+---
+
+## 📬 Contact
+
+If you would like to collaborate or connect:
+
+GitHub:
+https://github.com/vrithan2007
+
+---
+
+⭐ If you like this project, consider giving it a **star**.
