@@ -295,6 +295,7 @@ export default function App() {
             transition={{ delay: 0.5, duration: 0.8 }}
             className="text-xl md:text-2xl text-gray-400 mb-10 font-light max-w-2xl mx-auto leading-relaxed"
           >
+            
             Electronics Engineering Specialist crafting efficient, intelligent systems.
           </motion.p>
 
